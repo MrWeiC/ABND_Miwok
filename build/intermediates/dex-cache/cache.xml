@@ -1,12 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/Users/weichen/Documents/Coding/AndroidNano/Miwok/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="c499b624877cd590e6ed45a85b724c73b8630246">
-        <dex dex="/Users/weichen/Documents/Coding/AndroidNano/Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a8bc6699ef253b3341b8a9c58dc2e4af3dde5844/classes.dex" />
-    </item>
-
-</items>
+<items version="2" />
